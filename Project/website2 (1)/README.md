@@ -20,22 +20,23 @@ Welcome to our project! This is the Mzamomtsha Primary School website made in HT
 
 # Installation.
 
-This site was uploaded to the web server using cPanel and files are managed using ‘file manager’ within cPanel. cPanel provides users with an easy to use front-end interface. It allows you to easily manage your email accounts, your FTP accounts, the files that are on your website, your add-on domains, your sub-domains, your MySQL databases, and it will even provide you with your website statistics.
+This site was uploaded to the web server using Netlify.
 
 # Tutorial on installation.
 
-- Purchased a hosting space.
-- On cPanel click file manager.
-- Create a new website folder.
-- Upload our zip file: 
-- Double-click the folder and move inside.
-- Click the ‘upload’ option to transfer all the files with cPanel.
-- A new window displaying the ‘select’ tab is visible.
-- Click it and then choose the compressed zip file in the next step.
-- Upload the site in your cPanel.
-- Wait for the green progress bar to complete.
-
-# Contribute
+- Sign up on Netlify
+- After signing up, you’ll be redirected to a dashboard where you can add your site.
+- Now, to add a site, click on the Add new site button. The dropdown will display 3 options to add a new site.
+  Import an existing project
+  Start from a template
+  Deploy manually.
+  We'll choose the first option, which is to import an existing project.
+ - Choose the Git provider for your website's source code. We used Github in this case.
+ - Select the repository and branch you want to deploy from.
+ - Deploy your websit you will now be directed to the Site overview page of the newly created webpage. 
+ 
+ # Contribute.
+ 
 - Issue tracker: https://github.com/issues (linked to the actual website)
 - Source code:This website is based on W3Schools tutorials (https://www.w3schools.com/), Flexbox froggy (https://flexboxfroggy.com/, Youtube CSS Flexbox tutorial, and Quackit tutorials. Additionally, the below links were used: 
     - https://www.w3schools.com/csS/css3_flexbox.asp
@@ -46,7 +47,18 @@ This site was uploaded to the web server using cPanel and files are managed usin
     - Bootstrap 4 Tutorials - YouTube 
     - Bootstrap Beginner Crash Course - YouTube
     - Bootstrap 4 Tutorial (w3schools.com) 
+  
+  # Code
+![HTML5](https://user-images.githubusercontent.com/113591152/223721024-4cf363c8-a500-418d-b28e-3fc18c4235f1.png)  HTML code.
 
+![css](https://user-images.githubusercontent.com/113591152/223721473-4242ce12-e55b-4f6a-b71c-2d54cf4a90f9.png) 
+
+CSS code.
+
+
+![bootstrap](https://user-images.githubusercontent.com/113591152/223726434-58c0437c-6d19-4424-a743-f52079068549.png)
+
+Bootstrap code.
 # FAQs.
 1. **What is the purpose of this website ?**
 
