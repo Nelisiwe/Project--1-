@@ -19,13 +19,22 @@ HTML5, CSS, JavaScript version 3.5.1 and Bootstrap version 4.6.1
 
 This site was uploaded to the web server using cPanel and files are managed using ‘file manager’ within cPanel. cPanel provides users with an easy to use front-end interface. It allows you to easily manage your email accounts, your FTP accounts, the files that are on your website, your add-on domains, your sub-domains, your MySQL databases, and it will even provide you with your website statistics.
 
-# Example.
+# Tutorial on installation.
 
-NOT YET DONE.
+- Purchased a hosting space.
+- On cPanel click file manager.
+- Create a new website folder.
+- Upload our zip file: 
+ Double-click the folder and move inside.
+ Click the ‘upload’ option to transfer all the files with cPanel.
+ A new window displaying the ‘select’ tab is visible.
+ Click it and then choose the compressed zip file in the next step.
+ Upload the site in your cPanel.
+ Wait for the green progress bar to complete.
 
 # Issue-tracker.
 
-NOT YET DONE
+Github.
 
 # FAQs.
 1. **What is the purpose of this website ?**
