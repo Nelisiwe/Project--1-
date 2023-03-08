@@ -35,14 +35,14 @@ This site was uploaded to the web server using cPanel and files are managed usin
 # Contribute
 - Issue tracker: https://github.com/issues (linked to the actual website)
 - Source code:This website is based on W3Schools tutorials (https://www.w3schools.com/), Flexbox froggy (https://flexboxfroggy.com/, Youtube CSS Flexbox tutorial, and Quackit tutorials. Additionally, the below links were used: 
-- https://www.w3schools.com/csS/css3_flexbox.asp
-- https://www.youtube.com/watch?v=JJSoEo8JSnc
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
-- https://www.creativebloq.com/advice/the-web-designer-s-guide-to-flexbox
-- Bootstrap 4 Tutorials - YouTube 
-- Bootstrap Beginner Crash Course - YouTube
-- Bootstrap 4 Tutorial (w3schools.com) 
+    - https://www.w3schools.com/csS/css3_flexbox.asp
+    - https://www.youtube.com/watch?v=JJSoEo8JSnc
+    - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+    - https://www.creativebloq.com/advice/the-web-designer-s-guide-to-flexbox
+    - Bootstrap 4 Tutorials - YouTube 
+    - Bootstrap Beginner Crash Course - YouTube
+    - Bootstrap 4 Tutorial (w3schools.com) 
 
 # FAQs.
 1. **What is the purpose of this website ?**
