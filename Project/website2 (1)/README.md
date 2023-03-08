@@ -25,16 +25,24 @@ This site was uploaded to the web server using cPanel and files are managed usin
 - On cPanel click file manager.
 - Create a new website folder.
 - Upload our zip file: 
- Double-click the folder and move inside.
- Click the ‘upload’ option to transfer all the files with cPanel.
- A new window displaying the ‘select’ tab is visible.
- Click it and then choose the compressed zip file in the next step.
- Upload the site in your cPanel.
- Wait for the green progress bar to complete.
+- Double-click the folder and move inside.
+- Click the ‘upload’ option to transfer all the files with cPanel.
+- A new window displaying the ‘select’ tab is visible.
+- Click it and then choose the compressed zip file in the next step.
+- Upload the site in your cPanel.
+- Wait for the green progress bar to complete.
 
-# Issue-tracker.
-
-Github.
+# Contribute
+- Issue tracker: https://github.com/issues (linked to the actual website)
+- Source code:This website is based on W3Schools tutorials (https://www.w3schools.com/), Flexbox froggy (https://flexboxfroggy.com/, Youtube CSS Flexbox tutorial, and Quackit tutorials. Additionally, the below links were used: 
+- https://www.w3schools.com/csS/css3_flexbox.asp
+- https://www.youtube.com/watch?v=JJSoEo8JSnc
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+- https://www.creativebloq.com/advice/the-web-designer-s-guide-to-flexbox
+- Bootstrap 4 Tutorials - YouTube 
+- Bootstrap Beginner Crash Course - YouTube
+- Bootstrap 4 Tutorial (w3schools.com) 
 
 # FAQs.
 1. **What is the purpose of this website ?**
@@ -52,4 +60,5 @@ If you are having any issues please let us know email: khanyisilemdleleni@gmail.
 
 # License.
 
-This project is licensed under the BSD license.
+This project is licensed under the -----
+
