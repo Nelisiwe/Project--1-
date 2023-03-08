@@ -60,5 +60,5 @@ If you are having any issues please let us know email: khanyisilemdleleni@gmail.
 
 # License.
 
-This project is licensed under the -----
+This project is licensed under BSD 2-Clause "Simplified" License.
 
