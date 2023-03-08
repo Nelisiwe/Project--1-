@@ -17,7 +17,7 @@ HTML5, CSS, JavaScript version 3.5.1 and Bootstrap version 4.6.1
 
 # Installation.
 
-This site was uploaded to the web server using cPanel and files are managed using ‘file manager’ within cPanel.
+This site was uploaded to the web server using cPanel and files are managed using ‘file manager’ within cPanel. cPanel provides users with an easy to use front-end interface. It allows you to easily manage your email accounts, your FTP accounts, the files that are on your website, your add-on domains, your sub-domains, your MySQL databases, and it will even provide you with your website statistics.
 
 # Example.
 
