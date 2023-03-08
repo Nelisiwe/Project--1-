@@ -13,7 +13,10 @@
 Welcome to our project! This is the Mzamomtsha Primary School website made in HTML, CSS, Bootstrap, and JavaScript. The objective of this project is to showcase the local and national footprint of the school. It enables users to access any information they want quickly and easily about the school, and on any device. Any required or important information, such as admissions or policies, and school contact details is easy to navigate to with just one click. We hope you enjoy it, and we look forward to your contributions!
 
 # Languages.
-HTML5, CSS, JavaScript version 3.5.1 and Bootstrap version 4.6.1
+- HTML5
+- CSS
+- JavaScript version 3.5.1
+- Bootstrap version 4.6.1
 
 # Installation.
 
